@@ -1,0 +1,52 @@
+h1 {
+    background-color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    border-color: blue;
+    border-width: thick;
+    border-style: inset;
+    text-align: center;
+}
+
+
+body{
+   background-color:darkgray;
+    font-family: verdana, helvetica;
+    font-weight: bold;
+    height: 100vh;
+
+}
+
+ 
+aside{
+    font-size: 20px;
+    float: right;
+    width: 20%;
+    height: 100%;
+    background-color: chocolate;
+
+}
+section h2{
+    color: blueviolet;
+    text-align: center;
+    border-color: blue;
+    border-width: thick;
+    border-style: inset;
+   
+}
+footer{
+    background-color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90%;
+    border-color: pink;
+    border-width: thick;
+    border-style: inset;
+    text-align: center;
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+li{
+    text-align: center;
+}
